@@ -18,7 +18,7 @@ export default function Home() {
                3. Remove the text div if you prefer image only 
             */}
             {/* <div className="relative w-10 h-10">
-               <Image src="/logo.png" alt="HF Automations" fill className="object-contain" />
+               <Image src="/hf.jpeg" alt="HF Automations" fill className="object-contain" />
             </div> 
             */}
             
